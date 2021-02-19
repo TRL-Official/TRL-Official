@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tsyupryk-Roman??style=plastic&logo=appveyor&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsyupryk-roman/)
+[![Twitter](https://img.shields.io/twitter/url?label=Tsyupryk%20Roman&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FTsyuprykRoman)](https://twitter.com/TsyuprykRoman)
